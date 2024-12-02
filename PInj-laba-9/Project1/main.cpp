@@ -4,6 +4,6 @@ using namespace std;
 int main(int argc, char* argv[])
 {
 	setlocale(LC_ALL, "Russian");
-	cout << "Ã€Ã­Ã¨ÃªÃ¥Ã¥Ã¢ Ã‘Ã²Ã¥Ã¯Ã Ã­ 24ÃÃˆÃ­Ã¦1Ã¤ Ã¢Ã Ã°Ã¨Ã Ã­Ã² 1 ÃÃ¥Ã§Ã³Ã«Ã¼Ã²Ã Ã²Ã» Ã¬Ã Ã°Ã Ã´Ã®Ã­Ã " << endl;
+	cout << "Àíèêååâ Ñòåïàí 24ÏÈíæ1ä âàðèàíò 1 Ðåçóëüòàòû ìàðàôîíà" << endl;
 	return 0;
 }
