@@ -10,14 +10,14 @@ int main(int argc, char* argv[])
 	struct Info_about_runners
 	{
 		int num;
-		char* surname[30];
+		char* surname[200];
 		int start_hours;
 		int start_minutes;
 		int start_seconds;
 		int finish_hours;
 		int finish_minutes;
 		int finish_seconds;
-		char* club[100];
+		char* club[200];
 	};
 
 	return 0;
