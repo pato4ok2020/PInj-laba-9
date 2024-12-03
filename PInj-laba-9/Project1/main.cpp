@@ -20,5 +20,8 @@ int main(int argc, char* argv[])
 		char* club[200];
 	};
 
+	//Массив все данных об участниках марафона
+	Info_about_runners Array[101];
+
 	return 0;
 }
