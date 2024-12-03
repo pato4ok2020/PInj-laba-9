@@ -3,7 +3,7 @@
 #include <fstream>
 
 using namespace std;
-void file_reader(Info_about_runners* array, int N)
+void file_reader(struct Info_about_runners* array, int N)
 {
 	ofstream fdata("data.txt", ios::in);
 
